@@ -2,7 +2,7 @@
 
 ## 📚 Course
 Full Stack Software Development: Building Scalable Cloud Applications  
-Great Learning — May 2025 Cohort
+May 2025 Cohort
 
 ## 📝 About
 RESTful API built with Express.js featuring middleware, routing, authentication, error handling, and database integration.
